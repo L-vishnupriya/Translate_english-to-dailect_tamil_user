@@ -5,7 +5,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 # Set page configuration
 st.set_page_config(
     page_title="Tamil Dialect Translator", 
-    page_icon="🗣️", 
+    page_icon=" ", 
     layout="centered"
 )
 
